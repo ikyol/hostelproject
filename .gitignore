@@ -9,7 +9,10 @@ __pycache__/
 # Distribution / packaging
 .Python
 build/
+<<<<<<< HEAD
 .idea/
+=======
+>>>>>>> 17db56a80190e890c28afd07d585b635d05a5b8d
 develop-eggs/
 dist/
 downloads/
